@@ -1,7 +1,7 @@
 /* 一件件 · Service Worker
  * 缓存应用外壳，断网也能打开和勾任务。
  */
-var CACHE_VERSION = 'yijianjian-v1';
+var CACHE_VERSION = 'yijianjian-v2';
 var ASSETS = [
   './',
   './index.html',
